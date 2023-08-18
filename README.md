@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Mariaferbruno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mariaferbruno/Mariaferbruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hii, meu nome é Maria Fernanda 💋
+sou estudante do ensino médio 🫶🏻
+tenho 15 anos 🫧
+meu sonho é ser bióloga marinha 🧬
+sou estudante do alura 💻
+estou estudando atualmente HTML 🖥
+uso o espaço para compartilhar meus projetos!! 😁
